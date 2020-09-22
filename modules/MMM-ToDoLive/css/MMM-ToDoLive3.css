@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+
+
+.MMM-ToDoLive .text {
+
+  color: #FFFFFF;               /* text forecast color. Default is white. */
+
+  font-family: Gloria Hallelujah;
+
+  /* font-size: 1em; */
+
+  /* font-weight: bold; */
+
+  /* max-width: 1000px; */
+
+}
